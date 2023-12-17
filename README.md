@@ -37,3 +37,6 @@ LINEスタンプの宣伝に使えるのではないかと考え、このサー�
 * スタンプ詳細（使用例、アクセス数、販売サイトへのリンク、いいねなど表示）
 * コメント機能、いいね機能（会員登録者のみ）
 * アクセス数ランキング
+
+## figma
+https://www.figma.com/file/C9cnjdDh7LIBCTQxSJF9Qc/Untitled?type=design&node-id=0%3A1&mode=design&t=Rjg7EzPWiDHliyDF-1
